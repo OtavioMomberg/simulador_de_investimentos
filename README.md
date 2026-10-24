@@ -57,3 +57,14 @@ do investidor, monstrando o patrimônio acumulado de acordo com os anos e os div
 uma tabela com chave, perfil, tipo de FII e o percentual. Os valores são buscados utilizando a função PROCV a qual busca verticalmente por uma chave a esquerda
 da tabela, quando encontra, ela pega o percentual daquela chave em especifico e retorna ao campo.
 - Intervalos nomeados foram utilizados para facilitar a legibilidade das funções e facilitar a manutenção e expansão da ferramenta:
+  ![Intervalos Nomeados](https://github.com/OtavioMomberg/simulador_de_investimentos/blob/main/imagens/intervalos_nomeados.png)
+
+# 🖼️ Imagens do Projeto
+
+![Img1](https://github.com/OtavioMomberg/simulador_de_investimentos/blob/main/imagens/img1.png)
+
+
+![Img2](https://github.com/OtavioMomberg/simulador_de_investimentos/blob/main/imagens/img2.png)
+
+
+![Img3](https://github.com/OtavioMomberg/simulador_de_investimentos/blob/main/imagens/img3.png)
